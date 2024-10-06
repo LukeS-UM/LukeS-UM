@@ -1,3 +1,1 @@
-## Intro
-
-* Biochemist trying to program
+## A Biochemist trying to program
